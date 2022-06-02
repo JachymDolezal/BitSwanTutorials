@@ -3,7 +3,7 @@ Repository containing all examples of bspump for easy access
 
 ## Prerequisties
 
-before you start going through the examples makes sure you have Python 3.8 or higher and pip3 installed.
+before you start going through the examples makes sure you have Python 3.5 or higher and pip3 installed.
 
 for the most basic examples you will only need bspump module 
 
