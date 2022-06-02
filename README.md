@@ -5,7 +5,7 @@ Repository containing all examples of bspump for easy access
 
 before you start going through the example makes sure you have all im
 
-- [x] python 3.8 or higher
+- [ ] python 3.8 or higher
 >
     pip install bspump
 2.  
