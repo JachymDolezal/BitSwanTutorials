@@ -3,13 +3,22 @@ Repository containing all examples of bspump for easy access
 
 ## Prerequisties
 
-before you start going through the example makes sure you have all im
+before you start going through the examples makes sure you have Python 3.8 or higher and pip3 installed.
 
-- [ ] python 3.8 or higher
-- [ ] pip3
->
+for the most basic examples you will only need bspump module 
+
     pip3 install bspump
-2.  
+
+or
+
+    pip3 install git+git@github.com:LibertyAces/BitSwanPump.git
+
+for more advanced example you will need introduction to :
+- Docker
+- Elastic Search
+- Kibana
+- Kafka
+- Websockets
 
 ## Examples
 
