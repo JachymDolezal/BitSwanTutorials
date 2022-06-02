@@ -1,7 +1,18 @@
 # BitSwanTutorials
 Repository containing all examples of bspump for easy access
 
+## Prerequisties
+
+before you start going through the example makes sure you have all im
+
+- [x] python 3.8 or higher
+>
+    pip install bspump
+2.  
+
 ## Examples
+
+In this repository everything should be ready to go. Feel free to read about each example using links below.
 
 - [CoinDesk API](https://bitswanpump.readthedocs.io/en/latest/examples/coindeskAPI/index.html)
 - [Weather API](https://bitswanpump.readthedocs.io/en/latest/examples/weatherAPI/weatherAPI.html)
